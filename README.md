@@ -3,5 +3,5 @@
 Test git commit  
 follow_along branch is pseudo dev branch while follow_along_main_1 will be pseudo main.  
 
-03-08-2022 follow_along branch is done with CDN of vuejs tutorial 
+03-08-2022 follow_along branch is done with CDN of vuejs tutorial  
 -tutorial moves onto CLI and transfers assets from CDN version
